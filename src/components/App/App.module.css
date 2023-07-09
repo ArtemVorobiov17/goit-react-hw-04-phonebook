@@ -1,0 +1,13 @@
+.container {
+    border: 1px solid black;
+        /* outline: brown; */
+        width: 440px;
+        margin-left: auto;
+        margin-right: auto;
+        /* padding-left: 30px; */
+        /* padding-right: 30px; */
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+}

@@ -1,0 +1,11 @@
+.filter__label{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.filter__input {
+    width: 230px;
+}

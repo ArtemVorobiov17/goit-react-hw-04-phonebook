@@ -1,0 +1,24 @@
+.contact__item {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.contact__data {
+    gap: 10px;
+    display: flex;
+}
+
+.contact__btn {
+    width: 60px;
+    background-color: white;
+    border-radius: 4px;
+}
+
+.contact__btn:hover{
+    background-color: aquamarine;
+    border-color: coral;
+    color: blue;
+}
+

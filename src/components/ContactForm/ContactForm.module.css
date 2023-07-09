@@ -1,0 +1,28 @@
+.form {
+    border: 1px solid darkorange;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+.label {
+    margin-bottom: 10px;
+    flex-direction: column;
+    display: flex;
+}
+
+
+.input {
+    margin-top: 10px;
+    width: 230px;
+}
+
+.button {
+    background-color: white;
+    border-radius: 4px;
+}
+
+.button:hover{
+    background-color: aquamarine;
+    border-color: coral;
+    color: blue;
+}
